@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## Dropshipping di pc assemblati e periferiche hi-tech tramite amazon
+
+## Canali marketing
 
 You can use the [editor on GitHub](https://github.com/sitemana/assemblaggio-e-dropshipping-amazon-prodotti-interessanti/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Canali fi distribuzione, fornitori, logistica
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Prodotti interessanti dropshipping
+
+- https://9to5shop.com/collections/mobile-hotspots/products/unlocked-netgear-aircard-770s
 
 ```markdown
 Syntax highlighted code block
