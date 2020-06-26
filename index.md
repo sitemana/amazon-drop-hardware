@@ -4,6 +4,20 @@ https://sitemana.github.io/amazon-drop-hardware/
 
 ## Canali marketing
 
+### Personal branding, blog, e-commerce (dropshipping e non)
+
+Un sito web che contiene le pagine utili al personal brand, ed hai servizi che offre il personaggio.
+
+#### Perchè un personal brand
+
+- Per sfruttare youtube e lo storytelling con product placement come canale di marketing per i prodotti offerti che rimandano all'ecommerce
+- Per sfruttare il posizionamento SEO, usando il blog in combo con youtube
+- 
+
+### Youtube
+
+###
+
 You can use the [editor on GitHub](https://github.com/sitemana/assemblaggio-e-dropshipping-amazon-prodotti-interessanti/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
