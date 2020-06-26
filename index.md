@@ -8,16 +8,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Canali fi distribuzione, fornitori, logistica
 
-### Prodotti interessanti dropshipping
+### Prodotti interessanti
+
+#### Prodotti 4/5g router interessanti dropshipping
 
 - https://9to5shop.com/collections/mobile-hotspots/products/unlocked-netgear-aircard-770s
+- https://www.aliexpress.com/item/4001048238314.html?spm=a2g0o.productlist.0.0.383d72e5Dp5PF1&algo_pvid=9028a476-5bab-428d-8446-7af918dc87d4&algo_expid=9028a476-5bab-428d-8446-7af918dc87d4-0&btsid=0b0a187b15931324398012327e4c9c&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Ologogi
+### Fornitori affidabili
+#### Alibaba
+
+#### Aliexpress
+
+#### Ecommerce cinesi
+
+## Strumenti di navigazione
+
+- Parrot con tor
+- sfruttare motori di ricerca cinesi
 
 - Bulleted
 - List
