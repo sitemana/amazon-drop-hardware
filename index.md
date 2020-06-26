@@ -1,5 +1,7 @@
 ## Dropshipping di pc assemblati e periferiche hi-tech tramite amazon
 
+https://sitemana.github.io/amazon-drop-hardware/
+
 ## Canali marketing
 
 You can use the [editor on GitHub](https://github.com/sitemana/assemblaggio-e-dropshipping-amazon-prodotti-interessanti/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
