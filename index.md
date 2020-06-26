@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Canali fi distribuzione, fornitori, logistica
 
-### Prodotti interessanti
+### Prodotti interessanti
 
 #### Prodotti 4/5g router interessanti dropshipping
 
