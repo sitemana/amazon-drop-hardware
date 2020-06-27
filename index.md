@@ -8,6 +8,12 @@ https://sitemana.github.io/amazon-drop-hardware/
 
 Un sito web che contiene le pagine utili al personal brand, ed hai servizi che offre il personaggio.
 
+con l'ecommerce sarà possibile inserire prodotti di vario tipo in base al canale utilizzato per la vendita:
+
+- prodotti in stock magazzino 
+- prodotti in stock su amazon (affiliati oppure prodotti miei personali in vendita su amazon)
+- prodotti dropshipping (prodotti direttamente associati al dropshipping da aliexpress o alibaba)
+
 #### Perchè un personal brand
 
 - Per sfruttare youtube e lo storytelling con product placement come canale di marketing per i prodotti offerti che rimandano all'ecommerce
@@ -15,6 +21,14 @@ Un sito web che contiene le pagine utili al personal brand, ed hai servizi che o
 - 
 
 ### Youtube
+
+Voglio utilizzarlo per creare un canale di personal branding che mi identifichi come un influencer in ambito prodotti hitech e videogames, utlizzandolo in questo modo avro maggiori probabilita di poter posizionarmi come personaggio seguito e proporre in parallelo i prodotti che vendo in questo progetto, inoltre apre la possibilita di poter vendere anche merchandising come magliete con logo personalbrand o slogan ideati in base a strategie di personal brand o storitelling specifici di alcuni video.
+
+Utilizzando il canale youtube sara possibile creare svariate azioni di marketign trancui:
+
+- Product placement nei video (durante lo storytelling del video gli strumenti che utilizzero saranno miei prodotti o affiliati e rimandero al link prodotto quando descrivo lutilizzo del prodotto in base al contesto del video)
+- Posizionamento SEO come personaggio di intrattenimento su nicchia hitech e videogames
+- 
 
 ###
 
