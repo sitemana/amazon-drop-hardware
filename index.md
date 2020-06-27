@@ -1,6 +1,7 @@
 ## Dropshipping di pc assemblati e periferiche hi-tech tramite amazon
 
-[Visualizza la roadmap del progetto](https://sitemana.github.io/amazon-drop-hardware/)
+- [Visualizza la roadmap del progetto](https://sitemana.github.io/amazon-drop-hardware/)
+- [Modifica roadmap progetto su github](https://github.com/sitemana/amazon-drop-hardware/blob/master/index.md)
 
 ## Canali marketing
 
