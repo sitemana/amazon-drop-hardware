@@ -19,7 +19,6 @@ con l'ecommerce sarà possibile inserire prodotti di vario tipo in base al canal
 
 - Per sfruttare youtube e lo storytelling con product placement come canale di marketing per i prodotti offerti che rimandano all'ecommerce
 - Per sfruttare il posizionamento SEO, usando il blog in combo con youtube
-- 
 
 ### Youtube
 
@@ -29,15 +28,10 @@ Utilizzando il canale youtube sara possibile creare svariate azioni di marketign
 
 - Product placement nei video (durante lo storytelling del video gli strumenti che utilizzero saranno miei prodotti o affiliati e rimandero al link prodotto quando descrivo lutilizzo del prodotto in base al contesto del video)
 - Posizionamento SEO come personaggio di intrattenimento su nicchia hitech e videogames
-- 
 
 ### Instagram
 
 Per creare collegamenti con video youtube su storie e post e per piano editoriale in stile lifestyle per la promozione di orologi automatici
-
-You can use the [editor on GitHub](https://github.com/sitemana/assemblaggio-e-dropshipping-amazon-prodotti-interessanti/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Canali fi distribuzione, fornitori, logistica
 
@@ -68,7 +62,7 @@ Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legal
 
 
 ```markdown
-Syntax highlighted code block
+Area esempio di box per coding
 
 #### Ologogi
 
@@ -97,13 +91,3 @@ Alibaba, Baidu e Tencent
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sitemana/assemblaggio-e-dropshipping-amazon-prodotti-interessanti/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
