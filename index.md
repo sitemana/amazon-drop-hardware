@@ -31,7 +31,9 @@ Utilizzando il canale youtube sara possibile creare svariate azioni di marketign
 - Posizionamento SEO come personaggio di intrattenimento su nicchia hitech e videogames
 - 
 
-###
+### Instagram
+
+Per creare collegamenti con video youtube su storie e post e per piano editoriale in stile lifestyle per la promozione di orologi automatici
 
 You can use the [editor on GitHub](https://github.com/sitemana/assemblaggio-e-dropshipping-amazon-prodotti-interessanti/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -62,7 +64,7 @@ Alibaba, Baidu e Tencent
 
 - Parrot con tor per bypassare le restrizioni di navigazione in cina
 - sfruttare motori di ricerca cinesi
-- social media cinesi weibo e renren
+- social media cinesi [weibo](https://www.weibo.com/login.php) e [renren](
 
 
 ```markdown
