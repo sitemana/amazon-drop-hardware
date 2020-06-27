@@ -64,7 +64,7 @@ Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legal
 
 - Parrot con tor per bypassare le restrizioni di navigazione in cina
 - sfruttare motori di ricerca cinesi
-- social media cinesi [weibo](https://www.weibo.com/login.php) e [renren](http://www.renren.com)
+- social media cinesi [weibo](https://www.weibo.com/login.php), [renren](http://www.renren.com), (QQ)[https://im.qq.com] e (qzone)[https://qzone.qq.com]
 
 
 ```markdown
