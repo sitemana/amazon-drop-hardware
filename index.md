@@ -52,7 +52,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Fornitori affidabili
 
-Alibaba, Baidu e Tencent
+Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legali)
 
 #### Alibaba
 
@@ -64,7 +64,7 @@ Alibaba, Baidu e Tencent
 
 - Parrot con tor per bypassare le restrizioni di navigazione in cina
 - sfruttare motori di ricerca cinesi
-- social media cinesi [weibo](https://www.weibo.com/login.php) e [renren](
+- social media cinesi [weibo](https://www.weibo.com/login.php) e [renren](http://www.renren.com)
 
 
 ```markdown
