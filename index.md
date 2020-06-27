@@ -46,7 +46,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Rivenditore aliexpress di orologi basso automatici costo](https://www.aliexpress.com/item/4001048238314.html?spm=a2g0o.productlist.0.0.383d72e5Dp5PF1&algo_pvid=9028a476-5bab-428d-8446-7af918dc87d4&algo_expid=9028a476-5bab-428d-8446-7af918dc87d4-0&btsid=0b0a187b15931324398012327e4c9c&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 
 #### Ologogi
+
 ### Fornitori affidabili
+
+Alibaba, Baidu e Tencent
+
 #### Alibaba
 
 #### Aliexpress
@@ -55,15 +59,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Strumenti di navigazione
 
-- Parrot con tor
+- Parrot con tor per bypassare le restrizioni di navigazione in cina
 - sfruttare motori di ricerca cinesi
+- social media cinesi weibo e renren
 
 
 ```markdown
 Syntax highlighted code block
 
 #### Ologogi
+
 ### Fornitori affidabili
+
+Alibaba, Baidu e Tencent
+
 #### Alibaba
 
 #### Aliexpress
