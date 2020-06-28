@@ -76,8 +76,13 @@ Alibaba, Baidu e Tencent
 
 #### Ecommerce cinesi
 
-## Strumenti di navigazione
+## Strumenti di navigazione e di analisi
 
+### Strumenti di analisi prodotti e competitor
+
+- https://www.junglescout.com
+
+### Strumenti per la ricerca wen
 - Parrot con tor
 - sfruttare motori di ricerca cinesi
 
