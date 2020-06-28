@@ -54,7 +54,14 @@ Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legal
 
 #### Ecommerce cinesi
 
-## Strumenti di navigazione
+## Strumenti di navigazione e analisi
+
+### Strumenti di analisi prodotti e competitor
+
+- https://www.junglescout.com
+- https://www.whiterabbitexpress.com
+
+### Strumenti per la ricerca web 
 
 - Parrot con tor per bypassare le restrizioni di navigazione in cina
 - sfruttare motori di ricerca cinesi
@@ -78,9 +85,6 @@ Alibaba, Baidu e Tencent
 
 ## Strumenti di navigazione e di analisi
 
-### Strumenti di analisi prodotti e competitor
-
-- https://www.junglescout.com
 
 ### Strumenti per la ricerca wen
 - Parrot con tor
