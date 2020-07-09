@@ -50,6 +50,8 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 - Prodotti gadget hi-tech esclusivi rari strani creativi
 - Occhiali da sole
 - Pistole a gas
+- Stampanti 3d
+- PC Assemblati o componenti hardweare
 
 #### Prodotti 4/5g router interessanti dropshipping
 
