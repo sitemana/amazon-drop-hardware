@@ -76,7 +76,7 @@ ricerca su google: https://www.google.com/search?q=gas+guns+china+supplier&oq=ga
 - https://www.neonsales.co.za/gas-guns-8
 - https://www.wgcshop.com/
 - https://m.dhgate.com/wholesale/lighter+guns+pistol.html
-
+- https://ammoterra.com/companies/china-hengtai-industry-co-limited
 
 ##### Problemi legali e di Logistica
 
