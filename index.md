@@ -46,7 +46,7 @@ Per creare collegamenti con video youtube su storie e post e per piano editorial
 
 #### Ologogi
 
-- 
+- https://skmeiwatches.it.aliexpress.com/store/903895
 
 #### Occhiali da sole
 
