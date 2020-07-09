@@ -29,15 +29,27 @@ Utilizzando il canale youtube sara possibile creare svariate azioni di marketign
 - Product placement nei video (durante lo storytelling del video gli strumenti che utilizzero saranno miei prodotti o affiliati e rimandero al link prodotto quando descrivo lutilizzo del prodotto in base al contesto del video)
 - Posizionamento SEO come personaggio di intrattenimento su nicchia hitech e videogames
 
-### Instagram
+### Instagram facebook e mercatino
 
 Per creare collegamenti con video youtube su storie e post e per piano editoriale in stile lifestyle per la promozione di orologi automatici
+
+Capire se tramite mercatino privato si riesce a fare dropshipping o no:
+
+- https://www.facebook.com/policies/commerce/
+- https://www.facebook.com/communitystandards/
+- https://www.facebook.com/help/2193854224216494?ref=cp
 
 ## Canali fi distribuzione, fornitori, logistica
 
 ### Prodotti interessanti
 
 - [Elenco fornitori affidabili aliexpress](https://alixblog.com/it/migliori-venditori-aliexpress/)
+
+- Orologi 
+- Smartwatch
+- Prodotti gadget hi-tech esclusivi rari strani creativi
+- Occhiali da sole
+- Pistole a gas
 
 #### Prodotti 4/5g router interessanti dropshipping
 
@@ -52,6 +64,9 @@ Per creare collegamenti con video youtube su storie e post e per piano editorial
 
 - [Occhiali su aliexpress](https://it.aliexpress.com/item/32867301486.html?trace=wwwdetail2mobilesitedetail&spm=a2g0n.store_home.allProducts_823523.32867301486)
 
+#### Pistole a gas
+
+- 
 
 ### Fornitori affidabili
 
