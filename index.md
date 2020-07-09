@@ -37,12 +37,21 @@ Per creare collegamenti con video youtube su storie e post e per piano editorial
 
 ### Prodotti interessanti
 
+- https://alixblog.com/it/migliori-venditori-aliexpress/
+
 #### Prodotti 4/5g router interessanti dropshipping
 
 - [GPRS hotspot hitech da 9to5shop rivenditore de cina](https://9to5shop.com/collections/mobile-hotspots/products/unlocked-netgear-aircard-770s)
 - [Rivenditore aliexpress di orologi basso automatici costo](https://www.aliexpress.com/item/4001048238314.html?spm=a2g0o.productlist.0.0.383d72e5Dp5PF1&algo_pvid=9028a476-5bab-428d-8446-7af918dc87d4&algo_expid=9028a476-5bab-428d-8446-7af918dc87d4-0&btsid=0b0a187b15931324398012327e4c9c&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
 
 #### Ologogi
+
+- 
+
+#### Occhiali da sole
+
+- https://it.aliexpress.com/item/32867301486.html?trace=wwwdetail2mobilesitedetail&spm=a2g0n.store_home.allProducts_823523.32867301486
+
 
 ### Fornitori affidabili
 
