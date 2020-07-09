@@ -11,7 +11,7 @@ Un sito web che contiene le pagine utili al personal brand, ed hai servizi che o
 
 con l'ecommerce sarà possibile inserire prodotti di vario tipo in base al canale utilizzato per la vendita:
 
-- prodotti in stock magazzino 
+- prodotti in stock magazzino
 - prodotti in stock su amazon (affiliati oppure prodotti miei personali in vendita su amazon)
 - prodotti dropshipping (prodotti direttamente associati al dropshipping da aliexpress o alibaba)
 
@@ -45,7 +45,7 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 
 - [Elenco fornitori affidabili aliexpress](https://alixblog.com/it/migliori-venditori-aliexpress/)
 
-- Orologi 
+- Orologi
 - Smartwatch
 - Prodotti gadget hi-tech esclusivi rari strani creativi
 - Occhiali da sole
@@ -68,7 +68,22 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 
 #### Pistole a gas
 
-- 
+
+ricerca su google: https://www.google.com/search?q=gas+guns+china+supplier&oq=gas+guns+china+supplier&aqs=chrome..69i57j33l2.3886j0j4&sourceid=chrome&ie=UTF-8
+
+- https://www.made-in-china.com/products-search/hot-china-products/Gas_Airsoft.html
+- http://www.jiadyi.com/
+- https://www.neonsales.co.za/gas-guns-8
+- https://www.wgcshop.com/
+- https://m.dhgate.com/wholesale/lighter+guns+pistol.html
+-
+
+##### Problemi legali e di Logistica
+
+- https://en.wikipedia.org/wiki/Legal_issues_in_airsoft
+- http://www.zdpwolow.pl/50/150841.html
+
+#### Stampanti 3d
 
 ### Fornitori affidabili
 
@@ -87,12 +102,24 @@ Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legal
 - https://www.junglescout.com
 - https://www.whiterabbitexpress.com
 
-### Strumenti per la ricerca web 
+### Strumenti per la ricerca web
 
 - Parrot con tor per bypassare le restrizioni di navigazione in cina
 - sfruttare motori di ricerca cinesi
 - social media cinesi [weibo](https://www.weibo.com/login.php), [renren](http://www.renren.com), (QQ)[https://im.qq.com] e (qzone)[https://qzone.qq.com]
 
+## Struttura informatica e web
+
+### CMS ed Ecommerce
+
+### Strumenti per logistica e spedizioni
+
+1. https://xpsship.com/prestashop-shipping-software/
+2. https://openboxes.com/
+3. https://www.openshipping.org/
+4. https://www.redmine.org/
+
+-
 
 ```markdown
 Area esempio di box per coding
