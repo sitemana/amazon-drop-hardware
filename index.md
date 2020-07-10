@@ -1,3 +1,47 @@
+# Introduzione
+
+## Indice
+
+1. []()
+2. []()
+3. []()
+  1. []()
+  2. []()
+    1. []()
+    2. []()
+  3. []()
+    1. []()
+    2. []()
+    3. []()
+4. []()
+5. []()
+6. []()
+7. []()
+  1. []()
+  2. []()
+    1. []()
+    2. []()
+  3. []()
+    1. []()
+    2. []()
+    3. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
+
+
+
+
+## Emoji utili
+
+https://emojipedia.org/
+
+⭐ 🤔 🤩 😎 ⛔ ❗ ✅ ❌
+
 ## Dropshipping di pc assemblati e periferiche hi-tech tramite amazon
 
 - [Visualizza la roadmap del progetto](https://sitemana.github.io/amazon-drop-hardware/)
@@ -35,15 +79,15 @@ Per creare collegamenti con video youtube su storie e post e per piano editorial
 
 Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 
-- https://www.facebook.com/policies/commerce/
-- https://www.facebook.com/communitystandards/
-- https://www.facebook.com/help/2193854224216494?ref=cp
+- (Facebook policy commerce)[https://www.facebook.com/policies/commerce/){:target="_blank"}
+- (Facebook Community standards)[https://www.facebook.com/communitystandards/){:target="_blank"}
+- (Facebook selling informations)[https://www.facebook.com/help/2193854224216494?ref=cp){:target="_blank"}
 
 ## Canali fi distribuzione, fornitori, logistica
 
 ### Prodotti interessanti
 
-- [Elenco fornitori affidabili aliexpress](https://alixblog.com/it/migliori-venditori-aliexpress/)
+- [Elenco fornitori affidabili aliexpress](https://alixblog.com/it/migliori-venditori-aliexpress/){:target="_blank"}
 
 - Orologi
 - Smartwatch
@@ -52,38 +96,47 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 - Pistole a gas
 - Stampanti 3d
 - PC Assemblati o componenti hardweare
+- bambola silicone anime giapponese
+- E-Cigarettes
 
 #### Prodotti 4/5g router interessanti dropshipping
 
-- [GPRS hotspot hitech da 9to5shop rivenditore de cina](https://9to5shop.com/collections/mobile-hotspots/products/unlocked-netgear-aircard-770s)
-- [GPRS hotspot su aliexpress](https://www.aliexpress.com/item/4001048238314.html?spm=a2g0o.productlist.0.0.383d72e5Dp5PF1&algo_pvid=9028a476-5bab-428d-8446-7af918dc87d4&algo_expid=9028a476-5bab-428d-8446-7af918dc87d4-0&btsid=0b0a187b15931324398012327e4c9c&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_)
+- [GPRS hotspot hitech da 9to5shop rivenditore de cina](https://9to5shop.com/collections/mobile-hotspots/products/unlocked-netgear-aircard-770s){:target="_blank"}
+- [GPRS hotspot su aliexpress](https://www.aliexpress.com/item/4001048238314.html?spm=a2g0o.productlist.0.0.383d72e5Dp5PF1&algo_pvid=9028a476-5bab-428d-8446-7af918dc87d4&algo_expid=9028a476-5bab-428d-8446-7af918dc87d4-0&btsid=0b0a187b15931324398012327e4c9c&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_){:target="_blank"}
 
 #### Ologogi
 
-- [Rivenditore aliexpress di orologi basso automatici costo](https://skmeiwatches.it.aliexpress.com/store/903895)
+- [Rivenditore aliexpress di orologi basso automatici costo](https://skmeiwatches.it.aliexpress.com/store/903895){:target="_blank"}
 
 #### Occhiali da sole
 
-- [Occhiali su aliexpress](https://it.aliexpress.com/item/32867301486.html?trace=wwwdetail2mobilesitedetail&spm=a2g0n.store_home.allProducts_823523.32867301486)
+- [Occhiali su aliexpress](https://it.aliexpress.com/item/32867301486.html?trace=wwwdetail2mobilesitedetail&spm=a2g0n.store_home.allProducts_823523.32867301486){:target="_blank"}
 
 #### Pistole a gas
 
+##### Ricerca su google
+- [X]ricerca su google: [gas guns china supplier](https://www.google.com/search?q=gas+guns+china+supplier&oq=gas+guns+china+supplier&aqs=chrome..69i57j33l2.3886j0j4&sourceid=chrome&ie=UTF-8){:target="_blank"}
 
-ricerca su google: https://www.google.com/search?q=gas+guns+china+supplier&oq=gas+guns+china+supplier&aqs=chrome..69i57j33l2.3886j0j4&sourceid=chrome&ie=UTF-8
+###### Link della ricerca trovati
 
-- https://www.made-in-china.com/products-search/hot-china-products/Gas_Airsoft.html
-- http://www.jiadyi.com/
-- https://www.neonsales.co.za/gas-guns-8
-- https://www.wgcshop.com/
-- https://m.dhgate.com/wholesale/lighter+guns+pistol.html
-- https://ammoterra.com/companies/china-hengtai-industry-co-limited
+- [Madeinchina.com gas airsoft](https://www.made-in-china.com/products-search/hot-china-products/Gas_Airsoft.html){:target="_blank"}
+- [jiadyi.com](http://www.jiadyi.com/){:target="_blank"}
+- [neonsales.co.za gas guns](https://www.neonsales.co.za/gas-guns-8){:target="_blank"}
+- [wgcshop.com](https://www.wgcshop.com/){:target="_blank"}
+- [dhgate.com lighter+guns+pistol](https://m.dhgate.com/wholesale/lighter+guns+pistol.html){:target="_blank"}
+- [ammoterra.com](https://ammoterra.com/companies/china-hengtai-industry-co-limited){:target="_blank"}
 
-##### Problemi legali e di Logistica
+##### Stores mondiali
 
-- https://en.wikipedia.org/wiki/Legal_issues_in_airsoft
-- http://www.zdpwolow.pl/50/150841.html
+1. [ammoterra.com](https://ammoterra.com/airguns-wholesale){:target="_blank"}
+2. [dhgate.com](https://dhgate.com/){:target="_blank"}
+3. [Airgun supplier of Springs](http://www.zdpwolow.pl/50/150841.html){:target="_blank"}
 
 #### Stampanti 3d
+
+#### E-Cigarettes
+
+- https://www.dhgate.com/wholesale/e-cigarette-kits/c103030001.html?dspm=pcen.drt-1016.cate2-1.2.Veo17GvzvT2mKtTMndl5&resource_id=&d1_click_type=#pu1806-lc-2-1-2
 
 ### Fornitori affidabili
 
@@ -93,7 +146,9 @@ Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legal
 
 #### Aliexpress
 
-#### Ecommerce cinesi
+#### Ecommerce cinesi o internazionali economici
+
+1. https://www.dhgate.com/
 
 ## Strumenti di navigazione e analisi
 
@@ -106,20 +161,25 @@ Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legal
 
 - Parrot con tor per bypassare le restrizioni di navigazione in cina
 - sfruttare motori di ricerca cinesi
-- social media cinesi [weibo](https://www.weibo.com/login.php), [renren](http://www.renren.com), (QQ)[https://im.qq.com] e (qzone)[https://qzone.qq.com]
+- social media cinesi [weibo](https://www.weibo.com/login.php){:target="_blank"}, (renren)[http://www.renren.com]{:target="_blank"}, [QQ](https://im.qq.com){:target="_blank"} e [qzone](https://qzone.qq.com){:target="_blank"}
 
 ## Struttura informatica e web
 
 ### CMS ed Ecommerce
 
-### Strumenti per logistica e spedizioni
+### Strumenti software per logistica e spedizioni
+
+ricerca su https://www.goodfirms.co/blog/the-best-9-free-and-open-source-shipping-software
 
 1. https://xpsship.com/prestashop-shipping-software/
 2. https://openboxes.com/
 3. https://www.openshipping.org/
 4. https://www.redmine.org/
 
--
+
+### Problemi legali e di Logistica
+
+- [Wikipedia airsoft legal issues](https://en.wikipedia.org/wiki/Legal_issues_in_airsoft){:target="_blank"}
 
 ```markdown
 Area esempio di box per coding
