@@ -83,7 +83,7 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 - (Facebook Community standards)[https://www.facebook.com/communitystandards/){:target="_blank"}
 - (Facebook selling informations)[https://www.facebook.com/help/2193854224216494?ref=cp){:target="_blank"}
 
-## Canali fi distribuzione, fornitori, logistica
+## Canali di distribuzione, fornitori, logistica
 
 ### Prodotti interessanti
 
@@ -138,6 +138,26 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 
 - https://www.dhgate.com/wholesale/e-cigarette-kits/c103030001.html?dspm=pcen.drt-1016.cate2-1.2.Veo17GvzvT2mKtTMndl5&resource_id=&d1_click_type=#pu1806-lc-2-1-2
 
+#### Hentai Anime sex doll
+
+- https://it.aliexpress.com/w/wholesale-anime-sex-doll.html
+- https://www.yourdoll.com/manga-anime-sex-dolls/
+- https://it.aliexpress.com/w/wholesale-anime-real-sex-doll.html
+- https://www.siliconwives.com
+- https://absolutesexdoll.com/collections/anime-sex-dolls
+- https://sexyrealsexdolls.com/
+- https://www.sexdollinlove.com/product-tag/hentai-sex-doll-japanese-anime-manga-real-love-doll/
+- https://www.aliexpress.com/w/wholesale-cosplay-adult-sex-doll.html
+- https://it.aliexpress.com/w/wholesale-cosplay%20sex%20doll.html
+- https://it.bestlovesexdoll.com/collections/game-doll-look
+- https://it.dhgate.com/wholesale/search.do?act=search&dspm=&sus=&susTag=&searchkey=sex+doll&catalog=#Homesearch201403
+- https://www.amazon.com/s?k=AILIJIA&rh=n%3A3760901%2Cn%3A3777371&dc&qid=1594429288&rnid=2941120011&ref=sr_nr_n_2
+- https://sexdollcanada.com/
+- https://edolls.net/lovedoll/
+- https://belledoll.tokyo//collections/sanhui-doll%E8%BF%BD%E5%8A%A0%E5%95%86%E5%93%81-%E5%86%99%E7%9C%9F%E3%81%A4%E3%81%84%E3%81%9F%E3%82%89up
+
+
+
 ### Fornitori affidabili
 
 Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legali)
@@ -167,7 +187,7 @@ Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legal
 
 ### CMS ed Ecommerce
 
-### Strumenti software per logistica e spedizioni
+### Strumenti saas e software per logistica e spedizioni
 
 ricerca su https://www.goodfirms.co/blog/the-best-9-free-and-open-source-shipping-software
 
@@ -175,7 +195,11 @@ ricerca su https://www.goodfirms.co/blog/the-best-9-free-and-open-source-shippin
 2. https://openboxes.com/
 3. https://www.openshipping.org/
 4. https://www.redmine.org/
+5. https://www.shipito.com/
 
+### Strumenti di acquisto
+
+1. https://www.shipito.com/
 
 ### Problemi legali e di Logistica
 
@@ -199,7 +223,7 @@ Alibaba, Baidu e Tencent
 ## Strumenti di navigazione e di analisi
 
 
-### Strumenti per la ricerca wen
+### Strumenti per la ricerca web
 - Parrot con tor
 - sfruttare motori di ricerca cinesi
 
