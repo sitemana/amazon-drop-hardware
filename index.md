@@ -155,7 +155,8 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 - https://sexdollcanada.com/
 - https://edolls.net/lovedoll/
 - https://belledoll.tokyo//collections/sanhui-doll%E8%BF%BD%E5%8A%A0%E5%95%86%E5%93%81-%E5%86%99%E7%9C%9F%E3%81%A4%E3%81%84%E3%81%9F%E3%82%89up
-
+- https://lovedollharem.jp/index.php?route=journal3/blog/post&journal_blog_post_id=20
+- https://cloudclimax.co.uk/gynoid-tech-silicone-real-dolls/
 
 
 ### Fornitori affidabili
