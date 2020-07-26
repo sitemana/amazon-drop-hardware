@@ -169,8 +169,51 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 - https://www.aliexpress.com/i/4000792671405.html?spm=2114.12057483.0.0.5d092758U3keuh
 - https://www.aliexpress.com/i/4000773699810.html?spm=2114.12057483.0.0.5d092758U3keuh
 - https://www.aliexpress.com/i/4000766893410.html?spm=2114.12057483.0.0.5d092758U3keuh
+- https://www.aliexpress.com/i/4000298313806.html?spm=2114.12057483.0.0.34b25842fMqqXr
+- https://www.aliexpress.com/i/4000251837066.html?spm=2114.12057483.0.0.e9ce63f0WPNxtw
+- https://www.aliexpress.com/i/4000748398229.html?spm=2114.12057483.0.0.56406028C4duIi
+- https://www.aliexpress.com/i/4000773155972.html?spm=2114.12057483.0.0.35b47aaaYODFzq
+- https://www.aliexpress.com/i/4000751077698.html?spm=2114.12057483.0.0.58aa5b19ZSqxJW
+- https://www.aliexpress.com/i/4000678222284.html?spm=2114.12057483.0.0.4e5e6c1elFJ5tj 
 - 
 - 
+- 
+- 
+-
+
+#### Solette prodotti pulizia scarpe
+
+- https://www.aliexpress.com/i/4001014556201.html?spm=2114.12057483.0.0.44e81200rmNPi1
+- https://www.aliexpress.com/item/4000189910894.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&algo_pvid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0&algo_expid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0-0&btsid=0b0a22a415957816801973389e696e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- https://www.aliexpress.com/item/32967118196.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&algo_pvid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0&algo_expid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0-1&btsid=0b0a22a415957816801973389e696e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- https://www.aliexpress.com/item/32963429865.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&algo_pvid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0&algo_expid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0-2&btsid=0b0a22a415957816801973389e696e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- https://www.aliexpress.com/item/4000156606296.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&algo_pvid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0&algo_expid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0-3&btsid=0b0a22a415957816801973389e696e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- https://www.aliexpress.com/item/4000433575764.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&algo_pvid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0&algo_expid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0-4&btsid=0b0a22a415957816801973389e696e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- https://www.aliexpress.com/item/4000434967038.html?spm=a2g0o.detail.1000013.3.21b8747811oU6r&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=93419f0e-b4f5-435f-8e65-35f6bd8bd0a1&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.146401.0,pvid:93419f0e-b4f5-435f-8e65-35f6bd8bd0a1,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_668%232846%238112%23526_668%232717%237561%23337__668%233468%2315618%23943
+- https://www.aliexpress.com/item/4001015831747.html?spm=a2g0o.detail.1000013.7.21b8747811oU6r&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=93419f0e-b4f5-435f-8e65-35f6bd8bd0a1&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.146401.0,pvid:93419f0e-b4f5-435f-8e65-35f6bd8bd0a1,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_668%232846%238112%23526_668%232717%237561%23337__668%233468%2315618%23943
+- https://www.aliexpress.com/item/4000016119420.html?spm=a2g0o.detail.1000013.1.21b8747811oU6r&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=93419f0e-b4f5-435f-8e65-35f6bd8bd0a1&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.146401.0,pvid:93419f0e-b4f5-435f-8e65-35f6bd8bd0a1,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_668%232846%238112%23526_668%232717%237561%23337__668%233468%2315618%23943
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+##### Solette e prodotti strani
+
+- https://www.aliexpress.com/item/4000472122604.html?spm=a2g0o.detail.1000013.5.7ecf20d8u2cc4P&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=213ebd24-8254-4ad9-a8bf-d539e16ef4fc&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.146401.0,pvid:213ebd24-8254-4ad9-a8bf-d539e16ef4fc,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_668%232846%238112%23526_668%232717%237561%23337__668%233468%2315615%23636
+- https://www.aliexpress.com/item/4000749459499.html?spm=a2g0o.detail.1000014.7.73cf6e653vxB0E&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.14976.178076.0&scm_id=1007.14976.178076.0&scm-url=1007.14976.178076.0&pvid=554cccdf-3028-49d1-9805-16e10c94e763&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.14976.178076.0,pvid:554cccdf-3028-49d1-9805-16e10c94e763,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_4976%230%23178076%230_4976%232711%237538%23760_4976%233223%2310380%233_4976%233104%239653%236_4976%233141%239887%235_668%232846%238112%23526_668%232717%237561%23337__668%233422%2315392%23123
+- https://www.aliexpress.com/item/4000839673535.html?spm=a2g0o.detail.1000023.9.27137c72ml0xey
+- https://www.aliexpress.com/item/32797087897.html?spm=a2g0o.detail.1000023.3.4602bd18O2pIwi
+- https://www.aliexpress.com/item/32963414519.html?spm=a2g0o.detail.1000023.7.4602bd18O2pIwi
 
 #### E-Cigarettes
 
