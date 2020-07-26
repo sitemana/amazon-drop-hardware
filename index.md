@@ -240,22 +240,22 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 - https://www.aliexpress.com/item/32979656822.html?spm=a2g0o.detail.1000013.9.32acc99aXurYLw&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=8a84cdfe-193b-4703-bde6-523ad9bd5d64&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.146401.0,pvid:8a84cdfe-193b-4703-bde6-523ad9bd5d64,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_668%232846%238112%23526_668%232717%237561%23337__668%233468%2315615%23660
 - https://www.aliexpress.com/item/4001113008005.html?spm=a2g0o.detail.1000014.23.32acc99aXurYLw&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.14976.178076.0&scm_id=1007.14976.178076.0&scm-url=1007.14976.178076.0&pvid=f97d3eae-d1aa-43dc-831b-79a7b4d06241&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.14976.178076.0,pvid:f97d3eae-d1aa-43dc-831b-79a7b4d06241,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_4976%230%23178076%230_4976%232711%237538%23754_4976%233223%2310380%233_4976%233104%239653%236_4976%233141%239887%235_668%232846%238112%23526_668%232717%237561%23337__668%233422%2315392%23577
 - https://www.aliexpress.com/item/4000044190455.html?spm=a2g0o.detail.1000014.31.32acc99aXurYLw&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.14976.178076.0&scm_id=1007.14976.178076.0&scm-url=1007.14976.178076.0&pvid=f97d3eae-d1aa-43dc-831b-79a7b4d06241&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.14976.178076.0,pvid:f97d3eae-d1aa-43dc-831b-79a7b4d06241,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_4976%230%23178076%230_4976%232711%237538%23754_4976%233223%2310380%233_4976%233104%239653%236_4976%233141%239887%235_668%232846%238112%23526_668%232717%237561%23337__668%233422%2315392%23577
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- https://www.aliexpress.com/item/4000421600069.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&algo_pvid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0&algo_expid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0-10&btsid=0b0a22a415957816801973389e696e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- https://www.aliexpress.com/item/32809328385.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&algo_pvid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0&algo_expid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0-32&btsid=0b0a22a415957816801973389e696e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- https://www.aliexpress.com/item/33026780032.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&algo_pvid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0&algo_expid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0-28&btsid=0b0a22a415957816801973389e696e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- https://www.aliexpress.com/item/32987022014.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&algo_pvid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0&algo_expid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0-44&btsid=0b0a22a415957816801973389e696e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- https://www.aliexpress.com/item/4000591195264.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&s=p&ad_pvid=202007260941205447053753320180002910095_8&algo_pvid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0&algo_expid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0-47&btsid=0b0a22a415957816801973389e696e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- https://www.aliexpress.com/item/33053695064.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&algo_pvid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0&algo_expid=7b5bbfa6-9d33-4df6-a9ba-2829a5698ce0-50&btsid=0b0a22a415957816801973389e696e&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- https://www.aliexpress.com/item/4000885846513.html?spm=a2g0o.productlist.0.0.534c3bafAHGnq2&ad_pvid=202007261003102309667341228160008338891_2&s=p
+- https://www.aliexpress.com/item/4000922694287.html?spm=a2g0o.detail.1000023.13.52c87652skpWPq
+- https://www.aliexpress.com/item/4000885808919.html?spm=a2g0o.detail.1000013.3.17507652lFf9td&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=162e7e45-0faf-4bd4-aee1-46fc6cc7aad5&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.146401.0,pvid:162e7e45-0faf-4bd4-aee1-46fc6cc7aad5,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_668%232846%238112%23526_668%232717%237561%23337__668%233468%2315617%23811
+- https://www.aliexpress.com/item/4000885802836.html?spm=a2g0o.detail.1000023.5.49901d8afQJIzq
+- https://www.aliexpress.com/item/4000885884176.html?spm=a2g0o.detail.1000023.2.a251ec8bv0vlat
+- https://www.aliexpress.com/item/4000885796750.html?spm=a2g0o.detail.1000023.11.a251ec8bv0vlat
+- https://www.aliexpress.com/item/4000930880684.html?spm=a2g0o.detail.1000023.15.7cea7652SylcBZ
+- https://www.aliexpress.com/item/4000885843442.html?spm=a2g0o.detail.1000013.7.e65d573e8ElB0B&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=0ca82bd4-05c6-4427-b283-376e1bf07f63&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.146401.0,pvid:0ca82bd4-05c6-4427-b283-376e1bf07f63,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_668%232846%238112%23526_668%232717%237561%23337__668%233468%2315612%23356
+- https://www.aliexpress.com/item/4000885890090.html?spm=a2g0o.detail.1000013.13.e65d573e9kgRVT&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=d2b17c36-4c7e-47e2-8c6a-d2140de661c4&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.146401.0,pvid:d2b17c36-4c7e-47e2-8c6a-d2140de661c4,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_668%232846%238112%23526_668%232717%237561%23337__668%233468%2315618%23980
+- https://www.aliexpress.com/item/4000885824465.html?spm=a2g0o.detail.1000013.15.e65d573e9kgRVT&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.146401.0&scm_id=1007.13339.146401.0&scm-url=1007.13339.146401.0&pvid=d2b17c36-4c7e-47e2-8c6a-d2140de661c4&_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.146401.0,pvid:d2b17c36-4c7e-47e2-8c6a-d2140de661c4,tpp_buckets:668%230%23131923%2358_668%23808%237756%23244_668%23888%233325%2320_668%232846%238112%23526_668%232717%237561%23337__668%233468%2315618%23980
 - 
 - 
 - 
