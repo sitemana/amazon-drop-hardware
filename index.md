@@ -134,11 +134,17 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 
 #### Stampanti 3d
 
+#### Scarpe 
+
+- https://www.aliexpress.com/i/4000187533416.html?spm=2114.12057483.0.0.20b3153bpNcoPG
+- https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200726075634&SearchText=fivefingers
+- 
+
 #### E-Cigarettes
 
 - https://www.dhgate.com/wholesale/e-cigarette-kits/c103030001.html?dspm=pcen.drt-1016.cate2-1.2.Veo17GvzvT2mKtTMndl5&resource_id=&d1_click_type=#pu1806-lc-2-1-2
 
-#### Hentai Anime sex doll
+#### Hentai Anime sex doll
 
 - https://it.aliexpress.com/w/wholesale-anime-sex-doll.html
 - https://www.yourdoll.com/manga-anime-sex-dolls/
