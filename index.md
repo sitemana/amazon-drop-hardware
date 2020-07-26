@@ -138,7 +138,29 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 
 - https://www.aliexpress.com/i/4000187533416.html?spm=2114.12057483.0.0.20b3153bpNcoPG
 - https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20200726075634&SearchText=fivefingers
+- https://www.aliexpress.com/i/4000042855524.html?spm=2114.12057483.0.0.20b3153bFNlGqU
+- https://www.aliexpress.com/i/4000631397212.html?spm=2114.12057483.0.0.20b3153bu33r7D
+- https://www.aliexpress.com/i/4000611121713.html?spm=2114.12057483.0.0.20b3153bu33r7D
+- https://www.aliexpress.com/i/33031361192.html?spm=2114.12057483.0.0.20b3153bu33r7D
+- https://www.aliexpress.com/i/4000411614920.html?spm=2114.12057483.0.0.2d2134d0HfZaha
+- https://www.aliexpress.com/i/33047837800.html?spm=2114.12057483.0.0.2d2134d0HfZaha
+- https://www.aliexpress.com/i/4000394529828.html?spm=2114.12057483.0.0.2d2134d0HfZaha
+- https://www.aliexpress.com/i/4000224783412.html?spm=2114.12057483.0.0.2d2134d0HfZaha
+- https://www.aliexpress.com/i/33029359333.html?spm=2114.12057483.0.0.2d2134d0HfZaha
+- https://www.aliexpress.com/i/4000989487648.html?spm=2114.12057483.0.0.57d81f55b7Pn23
+- https://www.aliexpress.com/i/4000580209573.html?spm=2114.12057483.0.0.57d81f55b7Pn23
+- https://www.aliexpress.com/i/4000215416345.html?spm=2114.12057483.0.0.1b5f55ad5DZqpd
 - 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
 
 #### E-Cigarettes
 
