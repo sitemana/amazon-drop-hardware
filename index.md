@@ -79,9 +79,9 @@ Per creare collegamenti con video youtube su storie e post e per piano editorial
 
 Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 
-- (Facebook policy commerce)[https://www.facebook.com/policies/commerce/){:target="_blank"}
-- (Facebook Community standards)[https://www.facebook.com/communitystandards/){:target="_blank"}
-- (Facebook selling informations)[https://www.facebook.com/help/2193854224216494?ref=cp){:target="_blank"}
+- [Facebook policy commerce](https://www.facebook.com/policies/commerce/){:target="_blank"}
+- [Facebook Community standards)(https://www.facebook.com/communitystandards/){:target="_blank"}
+- [Facebook selling informations](https://www.facebook.com/help/2193854224216494?ref=cp){:target="_blank"}
 
 ## Canali di distribuzione, fornitori, logistica
 
