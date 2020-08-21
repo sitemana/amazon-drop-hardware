@@ -288,6 +288,10 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 - https://cloudclimax.co.uk/gynoid-tech-silicone-real-dolls/
 
 
+#### Vino
+
+- https://www.fornitori.it/dropshipping_t/vino
+
 ### Fornitori affidabili
 
 Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legali)
@@ -330,6 +334,7 @@ ricerca su https://www.goodfirms.co/blog/the-best-9-free-and-open-source-shippin
 ### Strumenti di acquisto
 
 1. https://www.shipito.com/
+2. https://www.fornitori.it/dropshipping_t/vino
 
 ### Problemi legali e di Logistica
 
