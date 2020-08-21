@@ -336,6 +336,7 @@ ricerca su https://www.goodfirms.co/blog/the-best-9-free-and-open-source-shippin
 - [Wikipedia airsoft legal issues](https://en.wikipedia.org/wiki/Legal_issues_in_airsoft){:target="_blank"}
 - https://www.eurosender.com/blog/it/spedire-oggetti-vietati/
 - https://www.spedireadesso.com/blog/spedizioni-il-controllo-dei-pacchi.html
+- https://www.ilquaderno.it/come-spedire-pacchi-stati-uniti-italia-ed-evitare-problemi-dogana-110989.html
 
 ```markdown
 Area esempio di box per coding
