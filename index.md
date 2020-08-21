@@ -339,6 +339,7 @@ ricerca su https://www.goodfirms.co/blog/the-best-9-free-and-open-source-shippin
 - https://www.ilquaderno.it/come-spedire-pacchi-stati-uniti-italia-ed-evitare-problemi-dogana-110989.html
 - https://italiacashback.com/acquisti-in-rete/come-ricevere-pacchi-e-indicare-indirizzo-diverso/#tab-con-16
 - https://support.packlink.com/hc/it/articles/207601109-Posso-Inviare-Alimenti-Negli-USA-?_ga=2.58987181.1295851056.1598035583-342071394.1598035583
+- https://support.packlink.com/hc/it/articles/208505015-Documentazione-Doganale-e-MRN
 
 ```markdown
 Area esempio di box per coding
