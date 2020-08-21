@@ -324,6 +324,8 @@ Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legal
 - sfruttare motori di ricerca cinesi
 - social media cinesi [weibo](https://www.weibo.com/login.php){:target="_blank"}, (renren)[http://www.renren.com]{:target="_blank"}, [QQ](https://im.qq.com){:target="_blank"} e [qzone](https://qzone.qq.com){:target="_blank"}
 
+https://it.dhgate.com/wholesale/dropshipping+wine.html#seo=WAP
+
 ## Struttura informatica e web
 
 ### CMS ed Ecommerce
