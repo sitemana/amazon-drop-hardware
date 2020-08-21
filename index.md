@@ -302,6 +302,7 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 ##### Analisi e competitor
 
 - https://usawineratings.com/en/blog/insights-1/leading-wine-retailers-in-the-usa-55.htm
+- https://www.google.com/search?client=firefox-b-d&q=top+american+ecommerce+wine+seller
 
 ### Fornitori affidabili
 
