@@ -300,6 +300,7 @@ Cercando di brandizzare alcuni vini autorevoli e proponendoli ai ristoranti alto
 
 - https://it.shopify.com/blog/come-vendere-vino-online-guida-shopify-ecommerce-vino
 - https://www.dee-wine.com/digital-marketing-boosts-direct-wine-sales/
+- https://www.forbes.com/sites/jefflefevere/2011/10/13/where-to-buy-wine-online-the-top-eight-wine-ecommerce-sites-for-unique-and-interesting-wines/
 - https://ecommerceguide.com/guides/wine-ecommerce-platforms/ - https://vinoshipper.com/ strumento per spedizione vino al consumatore
 - https://www.wine.com/content/business-dev/affiliate-program?iid=Footer:Link:AffiliateProgram affiliazione e vendita su portale
 
