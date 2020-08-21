@@ -350,6 +350,7 @@ ricerca su https://www.goodfirms.co/blog/the-best-9-free-and-open-source-shippin
 3. https://www.openshipping.org/
 4. https://www.redmine.org/
 5. https://www.shipito.com/
+6. https://www.shipstation.com/
 
 ### Strumenti di acquisto
 
