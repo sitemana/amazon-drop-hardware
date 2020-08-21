@@ -326,6 +326,8 @@ Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legal
 
 https://it.dhgate.com/wholesale/dropshipping+wine.html#seo=WAP
 
+https://www.scuolaecommerce.com/fornitori-dropshipping-italia/
+
 ## Struttura informatica e web
 
 ### CMS ed Ecommerce
