@@ -337,6 +337,7 @@ ricerca su https://www.goodfirms.co/blog/the-best-9-free-and-open-source-shippin
 - https://www.eurosender.com/blog/it/spedire-oggetti-vietati/
 - https://www.spedireadesso.com/blog/spedizioni-il-controllo-dei-pacchi.html
 - https://www.ilquaderno.it/come-spedire-pacchi-stati-uniti-italia-ed-evitare-problemi-dogana-110989.html
+- https://italiacashback.com/acquisti-in-rete/come-ricevere-pacchi-e-indicare-indirizzo-diverso/#tab-con-16
 
 ```markdown
 Area esempio di box per coding
