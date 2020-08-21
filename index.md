@@ -334,6 +334,7 @@ ricerca su https://www.goodfirms.co/blog/the-best-9-free-and-open-source-shippin
 ### Problemi legali e di Logistica
 
 - [Wikipedia airsoft legal issues](https://en.wikipedia.org/wiki/Legal_issues_in_airsoft){:target="_blank"}
+- https://www.eurosender.com/blog/it/spedire-oggetti-vietati/
 
 ```markdown
 Area esempio di box per coding
