@@ -293,6 +293,10 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 - https://www.fornitori.it/dropshipping_t/vino
 - https://www.bereilvino.it/database/cantine/
 
+##### Idee marketing vino
+
+- https://it.shopify.com/blog/come-vendere-vino-online-guida-shopify-ecommerce-vino
+
 ### Fornitori affidabili
 
 Alibaba, Baidu e Tencent yupoo (per fornitori di imitazioni o prodotti non legali)
