@@ -292,6 +292,7 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 
 - https://www.fornitori.it/dropshipping_t/vino
 - https://www.bereilvino.it/database/cantine/
+- https://www.byvino.it/it/produttori
 
 ##### Idee marketing vino
 
