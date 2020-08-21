@@ -297,6 +297,7 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 ##### Idee marketing vino
 
 - https://it.shopify.com/blog/come-vendere-vino-online-guida-shopify-ecommerce-vino
+- https://www.dee-wine.com/digital-marketing-boosts-direct-wine-sales/
 
 ### Fornitori affidabili
 
