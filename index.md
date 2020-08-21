@@ -290,6 +290,8 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 
 #### Vino
 
+Cercando di brandizzare alcuni vini autorevoli e proponendoli ai ristoranti altolocati che vendono lo stesso vino ma con il brand originale si può far conoscere il brand e i vini dello store in dropshipping e creare comunicazioni di marketing e call to action direttamente sull'etichetta della bottiglia
+
 - https://www.fornitori.it/dropshipping_t/vino
 - https://www.bereilvino.it/database/cantine/
 - https://www.byvino.it/it/produttori
@@ -298,6 +300,7 @@ Capire se tramite mercatino privato si riesce a fare dropshipping o no:
 
 - https://it.shopify.com/blog/come-vendere-vino-online-guida-shopify-ecommerce-vino
 - https://www.dee-wine.com/digital-marketing-boosts-direct-wine-sales/
+- https://vinoshipper.com/
 
 ##### Analisi e competitor
 
