@@ -295,6 +295,7 @@ Cercando di brandizzare alcuni vini autorevoli e proponendoli ai ristoranti alto
 - https://www.fornitori.it/dropshipping_t/vino
 - https://www.bereilvino.it/database/cantine/
 - https://www.byvino.it/it/produttori
+- https://www.prezzo-ok.com/
 
 ##### Idee marketing vino
 
@@ -304,6 +305,10 @@ Cercando di brandizzare alcuni vini autorevoli e proponendoli ai ristoranti alto
 - https://ecommerceguide.com/guides/wine-ecommerce-platforms/ - https://vinoshipper.com/ strumento per spedizione vino al consumatore
 - https://www.wine.com/content/business-dev/affiliate-program?iid=Footer:Link:AffiliateProgram affiliazione e vendita su portale
 - https://www.nakpack.it/blog/guide/come-vendere-vino-online-la-guida-completa/
+- https://shop.langhe.net/lavora-con-noi/
+- https://www.newcart.it/it/dropshipping/
+- https://www.gcle.it/dropshipping-italiani/
+- https://www.prezzo-ok.com/
 
 ##### Analisi e competitor
 
