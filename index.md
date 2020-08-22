@@ -346,6 +346,8 @@ https://www.scuolaecommerce.com/fornitori-dropshipping-italia/
 
 https://www.sellrapido.com
 
+http://www.69affiliate.com/dropshipping.html
+
 ## Struttura informatica e web
 
 ### CMS ed Ecommerce
