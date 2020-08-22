@@ -338,6 +338,8 @@ https://it.dhgate.com/wholesale/dropshipping+wine.html#seo=WAP
 
 https://www.scuolaecommerce.com/fornitori-dropshipping-italia/
 
+https://www.sellrapido.com
+
 ## Struttura informatica e web
 
 ### CMS ed Ecommerce
