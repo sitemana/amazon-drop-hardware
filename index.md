@@ -360,6 +360,7 @@ ricerca su https://www.goodfirms.co/blog/the-best-9-free-and-open-source-shippin
 
 1. https://www.shipito.com/
 2. https://www.fornitori.it/dropshipping_t/vino
+3. https://www.gcle.it/dropshipping-italiani/
 
 ### Problemi legali e di Logistica
 
